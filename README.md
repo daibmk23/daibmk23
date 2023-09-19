@@ -1,1 +1,1 @@
-Hi there. I am a CS student at Bilkent University. I have some basic experience in C, C++, Python and have done some IoT projects using python and MicroPython. I am currently learning Java.
+Hi there. I am a CS student at Bilkent University. I have a basic experience in Java and Python, and have done some IoT projects using python and MicroPython. I am currently learning intermediate level Java.

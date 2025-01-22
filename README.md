@@ -1,1 +1,1 @@
-Hi there. I am a CS student at Bilkent University. I have a basic experience in Java, Python, and C++, and have done some IoT projects using python and MicroPython. I am currently learning intermediate level C++ and the HDL, SystemVerilog.
+Hi there, I am a CS student currently pursuing my bachelor's at Bilkent University.
